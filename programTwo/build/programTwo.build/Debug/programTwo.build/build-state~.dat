@@ -1,0 +1,72 @@
+TprogramTwo
+v7
+r0
+t294781817.309679
+cCheck dependencies
+cCompileC build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/main.o /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo normal i386
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7D589B00000000000000EE
+t1266505883
+s238
+
+N/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo
+t2
+s0
+
+N/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/main.o
+t1273089016
+s48160
+
+N/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/programTwo.LinkFileList
+c000000004BDB6209000000000000009C
+t1272668681
+s156
+
+N/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp
+c000000004BE1CBED000000000000031E
+t1273089005
+s798
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294781806#294781807#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/main.o /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s294781807.169888
+e294781816.740155
+r1
+xCompileC
+xbuild/programTwo.build/Debug/programTwo.build/Objects-normal/i386/main.o
+x/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp: In function 'int main()':
+o/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:29: warning: unused variable 'catUno'
+o/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:30: warning: unused variable 'catDos'
+o/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:31: warning: unused variable 'catTres'
+o/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp: In function 'void prodCat(char, char, char)':
+o/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:37: warning: unused variable 'catOne'
+o/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:38: warning: unused variable 'catTwo'
+o/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:39: warning: unused variable 'catThree'
+lSLF07#2@99"Compile /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp294781807#294781816#0(1041"/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp: In function 'int main()':/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:29: warning: unused variable 'catUno'/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:30: warning: unused variable 'catDos'/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:31: warning: unused variable 'catTres'/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp: In function 'void prodCat(char, char, char)':/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:37: warning: unused variable 'catOne'/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:38: warning: unused variable 'catTwo'/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp:39: warning: unused variable 'catThree'8(22@111"The option '-D_GLIBCXX_DEBUG_PEDANTIC=1' should not be passed to GCC 4.2 and has been automatically suppressed.294780332#18446744073709551615#0#0(1@0"0(22@102"The option '-D_GLIBCXX_DEBUG=1' should not be passed to GCC 4.2 and has been automatically suppressed.294780332#18446744073709551615#0#0(1@0"0(22@24"Unused variable 'catUno'294781816#119#130#0(6@91"/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp294781805#29#0#29#0#19"unused variable '*'0(22@24"Unused variable 'catDos'294781816#249#130#0(6@91"/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp294781805#30#0#30#0#19"unused variable '*'0(22@25"Unused variable 'catTres'294781816#379#131#0(6@91"/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp294781805#31#0#31#0#19"unused variable '*'0(22@24"Unused variable 'catOne'294781816#649#130#0(6@91"/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp294781805#37#0#37#0#19"unused variable '*'0(22@24"Unused variable 'catTwo'294781816#779#130#0(6@91"/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp294781805#38#0#38#0#19"unused variable '*'0(22@26"Unused variable 'catThree'294781816#909#132#0(6@91"/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp294781805#39#0#39#0#19"unused variable '*'0(0#0#91"/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp8299981776930958336#1823"    cd /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/programTwo-generated-files.hmap -I/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/programTwo-own-target-headers.hmap -I/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/programTwo-all-target-headers.hmap -iquote /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/programTwo-project-headers.hmap -F/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug -I/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/include -I/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/DerivedSources/i386 -I/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/DerivedSources -c /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp -o /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/main.o0#
+
+CLd /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo normal i386
+s294781816.740701
+e294781817.309624
+r0
+xLd
+x/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo
+xnormal
+xi386
+oUndefined symbols:
+o  "prodCat()", referenced from:
+o      _main in main.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@110"Link /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo294781816#294781817#0(133"Undefined symbols:  "prodCat()", referenced from:      _main in main.old: symbol(s) not foundcollect2: ld returned 1 exit status4(4@29""prodCat()", referenced from:294781817#19#32#0(6@0"294781817#0#0#0#0#0"0(13@15"_main in main.o294781817#51#22#0(6@0"294781817#0#0#0#0#0"0(13@19"Symbol(s) not found294781817#73#24#0(6@0"294781817#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status294781817#97#36#0(6@0"294781817#0#0#0#0#0"0(0#0#0"32932993185022064#726"    cd /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug -F/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug -filelist /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/programTwo.LinkFileList -mmacosx-version-min=10.5 -o /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo1#
+

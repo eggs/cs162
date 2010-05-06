@@ -20,16 +20,6 @@
 		vrLen = 1394;
 		vrLoc = 0;
 	};
-	001AF4F01182AAF3004B736E /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
-		name = "main.cpp: 19";
-		rLen = 0;
-		rLoc = 583;
-		rType = 0;
-		vrLen = 953;
-		vrLoc = 0;
-	};
 	0082F04F117CE20400BBC140 /* programOne */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -67,15 +57,25 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	00DCEF0F1182A96E007B6147 /* PBXTextBookmark */ = {
+	00E7FE9C1189089B00898C74 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
-		name = "main.cpp: 20";
+		name = "main.cpp: 165";
 		rLen = 0;
-		rLoc = 587;
+		rLoc = 4504;
 		rType = 0;
-		vrLen = 888;
+		vrLen = 953;
 		vrLoc = 0;
+	};
+	00ECF186118F4BD5004B3DD2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 7";
+		rLen = 0;
+		rLoc = 141;
+		rType = 0;
+		vrLen = 1270;
+		vrLoc = 3236;
 	};
 	00F24CEA117ED98C001492BF /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -169,14 +169,14 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 293775848;
-			PBXWorkspaceStateSaveDate = 293775848;
+			PBXPerProjectTemplateStateSaveDate = 294603635;
+			PBXWorkspaceStateSaveDate = 294603635;
 		};
 		perUserProjectItems = {
 			00173F99117D1DE500B527F5 /* PBXTextBookmark */ = 00173F99117D1DE500B527F5 /* PBXTextBookmark */;
 			00173F9A117D1DE500B527F5 /* PBXTextBookmark */ = 00173F9A117D1DE500B527F5 /* PBXTextBookmark */;
-			001AF4F01182AAF3004B736E /* PBXTextBookmark */ = 001AF4F01182AAF3004B736E /* PBXTextBookmark */;
-			00DCEF0F1182A96E007B6147 /* PBXTextBookmark */ = 00DCEF0F1182A96E007B6147 /* PBXTextBookmark */;
+			00E7FE9C1189089B00898C74 /* PBXTextBookmark */ = 00E7FE9C1189089B00898C74 /* PBXTextBookmark */;
+			00ECF186118F4BD5004B3DD2 /* PBXTextBookmark */ = 00ECF186118F4BD5004B3DD2 /* PBXTextBookmark */;
 			00F24CEA117ED98C001492BF /* PBXTextBookmark */ = 00F24CEA117ED98C001492BF /* PBXTextBookmark */;
 		};
 		sourceControlManager = 0082F061117CE21B00BBC140 /* Source Control */;
@@ -186,8 +186,8 @@
 	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {851, 2324}}";
-			sepNavSelRange = "{583, 0}";
-			sepNavVisRange = "{0, 953}";
+			sepNavSelRange = "{141, 0}";
+			sepNavVisRange = "{3236, 1270}";
 		};
 	};
 	8DD76F620486A84900D96B5E /* programOne */ = {

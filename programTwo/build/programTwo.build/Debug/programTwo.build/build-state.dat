@@ -1,0 +1,65 @@
+TprogramTwo
+v7
+r0
+t294819578.962045
+cCheck dependencies
+cCompileC build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/main.o /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo normal i386
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7D589B00000000000000EE
+t1266505883
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/string.h
+c0000000047BA99320000000000001731
+t1203411250
+s5937
+
+N/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo
+t1273126638
+s17288
+
+N/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/main.o
+t1273126637
+s80260
+
+N/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/programTwo.LinkFileList
+c000000004BDB6209000000000000009C
+t1272668681
+s156
+
+N/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp
+c000000004BE25FA40000000000001192
+t1273126820
+s4498
+i<iostream>
+i"string.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294819578#294819578#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/main.o /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s294819438.823192
+e294819438.824250
+r1
+xCompileC
+xbuild/programTwo.build/Debug/programTwo.build/Objects-normal/i386/main.o
+x/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp294819438#294819440#0(0"2(22@111"The option '-D_GLIBCXX_DEBUG_PEDANTIC=1' should not be passed to GCC 4.2 and has been automatically suppressed.294817343#18446744073709551615#0#0(1@0"0(22@102"The option '-D_GLIBCXX_DEBUG=1' should not be passed to GCC 4.2 and has been automatically suppressed.294817343#18446744073709551615#0#0(1@0"0(0#0#91"/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp4300911832#1823"    cd /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/programTwo-generated-files.hmap -I/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/programTwo-own-target-headers.hmap -I/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/programTwo-all-target-headers.hmap -iquote /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/programTwo-project-headers.hmap -F/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug -I/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/include -I/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/DerivedSources/i386 -I/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/DerivedSources -c /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/main.cpp -o /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/main.o0#
+
+CLd /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo normal i386
+s294819438.824397
+e294819438.864691
+r1
+xLd
+x/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo
+xnormal
+xi386
+lSLF07#2@110"Link /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo294819438#294819440#0(0"0(0#0#0"4300911832#726"    cd /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug -F/Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug -filelist /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/programTwo.build/Debug/programTwo.build/Objects-normal/i386/programTwo.LinkFileList -mmacosx-version-min=10.5 -o /Users/jonathaneggiman/Documents/school/psu/spring2010/cs162Notes/cs162/programTwo/build/Debug/programTwo0#
+
